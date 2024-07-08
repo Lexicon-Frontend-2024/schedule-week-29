@@ -26,15 +26,15 @@ Under de här två veckorna kommer ni ha stöd av dels hela er klass och er till
 * [Vanilla JS bootcamp]()
 
 ## Studiegrupper:
-Grupp 1:
+#### Grupp 1:
 * Boel, Anna, Johan A, Veselin, Alexandros
-Grupp 2:
+#### Grupp 2:
 * Michael, Nino, Fanny, Nunzia, Yulia
-Grupp 3:
+#### Grupp 3:
 * Andrej, Hektor, Max, Erik, Isabelle
-Grupp 4:
+#### Grupp 4:
 * Jessica, Rasmus, Arbnor, Sara, Jonatan
-Grupp 5:
+#### Grupp 5:
 * Johan S, Anton, Sofia, Louise, Sara
-Grupp 6;
+#### Grupp 6;
 * Joel, Lovisa, Mattias, Mikaela, Tatiana
