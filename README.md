@@ -2,7 +2,7 @@
 
 ###### JavaScript
 
-## Mål för veckan:
+## Mål för veckorna:
 1. Förståelse för vad JavaScript är och vad det används till
 2. Kunna blanda arraymetoder med objekt och dom-manipulation 
 
