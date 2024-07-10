@@ -22,7 +22,7 @@ Under de här två veckorna kommer ni ha stöd av dels hela er klass och er till
 * [DOM-manipulation](https://www.w3schools.com/js/js_htmldom_methods.asp)
 
 ## Övningar:
-* [Receptet](https://github.com/Lexicon-Frontend-2024/exercise-js-recipe-manipulation/tree/main); deadline 26/7
+* [Receptet](https://github.com/Lexicon-Frontend-2024/exercise-js-recipe-manipulation/tree/main); deadline 31/7
 * [Vanilla JS bootcamp]()
 
 ## Studiegrupper:
