@@ -23,7 +23,7 @@ Under de här två veckorna kommer ni ha stöd av dels hela er klass och er till
 
 ## Övningar:
 * [Receptet](https://github.com/Lexicon-Frontend-2024/exercise-js-recipe-manipulation/tree/main); deadline 31/7
-* [Vanilla JS bootcamp]()
+* [Vanilla JS bootcamp](https://github.com/Lexicon-Frontend-2024/exercise-js-bootcamp)
 
 ## Studiegrupper:
 ##### Grupp 1:
